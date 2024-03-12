@@ -3,7 +3,7 @@
 
 Calculate your BMI using your weight and height.
 
-## Calculate your BMI using your weight and height.
+## Running locally
 
 Clone the project
 
