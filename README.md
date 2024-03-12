@@ -5,7 +5,7 @@ Calculate your BMI using your weight and height.
 
 ## Calculate your BMI using your weight and height.
 
-Clone the project
+Clone the projectss
 
 ```bash
   git clone https://github.com/jskadomoto/calc_bmi_python.git
